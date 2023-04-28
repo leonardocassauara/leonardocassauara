@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Leonardo Cassauara
+- 👀 I’m interested in improving my problem solving skills
+- 🌱 I’m currently learning programming logic through Python and C
+- ✨ Seeking ways to set my mark on the world..
