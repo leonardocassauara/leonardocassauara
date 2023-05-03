@@ -7,8 +7,8 @@
 ## 👾 Github Stats
 
 <div align="left">
-    <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
-    <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
+    <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
+    <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
 </div>
 
 ## 💻 Skills
@@ -26,7 +26,9 @@
 ## 🌐 Social Media
 
 <div id="badges">
-  <a href="[(https://www.linkedin.com/in/leonardo-cassauara-maia-b6228b214)](https://www.linkedin.com/in/leonardo-cassauara-maia-b6228b214/)">
+  <a href="https://www.linkedin.com/in/leonardo-cassauara-maia-b6228b214">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </div>
+  </a>
+</div>
+
 
