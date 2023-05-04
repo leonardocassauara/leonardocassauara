@@ -1,4 +1,4 @@
-# Tech enthusiast alert! Leonardo here
+# Tech lover! Leonardo here
 
 🎓 Computer sciencie student passionate about development of problem-solving programs
 
@@ -7,8 +7,9 @@
 ## 👾 Github Stats
 
 <div align="left">
-    <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
-    <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
+    <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
+    <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
+    <img width="20%" src="https://i.imgur.com/Rk5AiUp.png">
 </div>
 
 ## 💻 Skills
@@ -30,5 +31,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-
