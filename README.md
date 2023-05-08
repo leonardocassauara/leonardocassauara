@@ -27,12 +27,12 @@
   * Django
 
 ## 🌐 Social Media
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/leonardo-cassauara-maia-b6228b214">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div align="right">
-    <img width="20%" src="https://i.imgur.com/Rk5AiUp.png">
+<div>
+    <div align="rigth">
+        <div id="badges">
+          <a href="https://www.linkedin.com/in/leonardo-cassauara-maia-b6228b214">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+          </a>
+     <div align="right">
+        <img width="20%" src="https://i.imgur.com/Rk5AiUp.png">
 </div>
