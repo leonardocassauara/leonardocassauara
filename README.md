@@ -7,8 +7,8 @@
 ## 👾 Github Stats
 
 <div align="left">
-    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
-    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
+    <img width="50%" height="300px" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
+    <img width="50%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
 </div>
 
 ## 💻 Skills
