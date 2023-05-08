@@ -2,14 +2,13 @@
 
 🎓 Computer sciencie student passionate about development of problem-solving programs
 
-🎮 I deeply believe that solving problems in a group is so much fun!
+🎮 I deeply believe that being able to develop utilities, graphics and games is something incredible
 
 ## 👾 Github Stats
 
 <div align="left">
-    <img width="35%" height="205px" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
-    <img width="35%" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
-    <img width="20%" src="https://i.imgur.com/Rk5AiUp.png">
+    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
+    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
 </div>
 
 ## 💻 Skills
@@ -23,6 +22,9 @@
   * Reading "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert Cecil Martin
   * Programming logic through Python and C
   * Object-Oriented-Programming logic through Python
+  * HTML, CSS & JavaScript
+  * SQLite
+  * Django
 
 ## 🌐 Social Media
 
@@ -30,4 +32,7 @@
   <a href="https://www.linkedin.com/in/leonardo-cassauara-maia-b6228b214">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
+<div align="right">
+    <img width="20%" src="https://i.imgur.com/Rk5AiUp.png">
 </div>
