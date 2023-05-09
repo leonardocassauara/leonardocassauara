@@ -7,8 +7,8 @@
 ## 👾 Github Stats
 
 <div align="left">
-    <img width="50%" height="180px" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
-    <img width="50%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
+    <img width="46%" height="200px" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
+    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
 </div>
 
 ## 💻 Skills
@@ -19,7 +19,7 @@
 
 ## 📚 Currently Learning
 
-  * Reading "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert Cecil Martin
+  * Reading "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert Cecil Martin (13%)
   * Programming logic through Python and C
   * Object-Oriented-Programming logic through Python
   * HTML, CSS & JavaScript
@@ -34,5 +34,5 @@
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
      <div align="right">
-        <img width="20%" src="https://i.imgur.com/Rk5AiUp.png">
+        <img width="25%" src="https://i.imgur.com/Rk5AiUp.png">
 </div>
