@@ -25,6 +25,7 @@
   * HTML, CSS & JavaScript
   * SQLite
   * Django
+  * Git
 
 ## 🌐 Social Media
 <div>
