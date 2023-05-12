@@ -2,7 +2,7 @@
 
 🎓 Computer sciencie student passionate about development of problem-solving programs
 
-🎮 I deeply believe that being able to develop utilities, graphics and games is something incredible
+🎮 I deeply believe that **being able to develop utilities, graphics and games is something incredible**
 
 ## 👾 Github Stats
 
@@ -24,7 +24,7 @@
   * Programming logic through Python and C
   * Object-Oriented-Programming logic through Python
   * HTML, CSS & JavaScript
-  * SQLite
+  * SQL
   * Git
 
 ## 🌐 Social Media
