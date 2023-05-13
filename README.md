@@ -24,7 +24,7 @@
   * Programming logic through Python and C
   * Object-Oriented-Programming logic through Python
   * HTML, CSS & JavaScript
-  * SQL
+  * Lua
   * Git
 
 ## 🌐 Social Media
