@@ -21,11 +21,15 @@
 ## 📚 Currently Learning
 
   * Reading "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert Cecil Martin (13%)
-  * Programming logic through Python and C
+  * Programming logic through Python, C and Lua
   * Object-Oriented-Programming logic through Python
   * HTML, CSS & JavaScript
   * Lua
   * Git
+  * Redem Framework
+
+## 🤠 Becoming a RedM Developer
+  I'm currently studying RedM and Redem Natives Framework to develop Red Dead Redemption 2 scripts. This whole journey will help me improve my problem-solving skills and will test my knowledge and experience writing a clean code along side a developer team
 
 ## 🌐 Social Media
 <div>
