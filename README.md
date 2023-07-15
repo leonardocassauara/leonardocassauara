@@ -22,7 +22,7 @@
 
 ## 📚 Currently Learning
 
-  * Reading "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert Cecil Martin (13%)
+  * Reading "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert Cecil Martin (15%)
   * Programming logic through Python, C and Lua
   * Object-Oriented-Programming logic through Python
   * HTML, CSS & JavaScript
@@ -31,7 +31,7 @@
   * Redem Framework
 
 ## 🤠 Becoming a RedM Developer
-  I'm currently studying RedM and Redem Natives Framework to develop Red Dead Redemption 2 scripts. This whole journey will help me improve my problem-solving skills and will test my knowledge and experience writing a clean code along side a developer team
+  I'm currently studying Lua and Redem Natives Framework to develop Red Dead Redemption 2 scripts. This whole journey will help me improve my problem-solving skills and will test my knowledge and experience writing a clean code along side a developer team
 
 ## 🌐 Social Media
 <div>
@@ -39,6 +39,8 @@
         <div id="badges">
           <a href="https://www.linkedin.com/in/leonardo-cassauara-maia-b6228b214">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+            <a href="https://discord.com/users/237307535709831169">
+            <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
           </a>
      <div align="right">
         <img width="25%" src="https://i.imgur.com/Rk5AiUp.png">
