@@ -23,6 +23,7 @@
 ## 📚 Currently Learning
 
   * Reading "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert Cecil Martin (15%)
+  * Reading "Fundamentals of Database Systems" by Ramez Elmasri and Shamkant B. Navathe
   * Programming logic through Python, C and Lua
   * Object-Oriented-Programming logic through Python
   * Data Sciencie
