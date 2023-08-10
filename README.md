@@ -4,6 +4,8 @@
 
 🎮 I deeply believe that **being able to develop utilities, graphics and games is something incredible**
 
+💡 Learning new stuff **every day!**
+
 ## 👾 Github Stats
 
 <div align="left">
@@ -18,6 +20,7 @@
   <img src="https://i.imgur.com/7ruJ9iO.png" width="4%" height="5%">
   <img src="https://i.imgur.com/lnd7KNi.png" width="5%" height="5%">
   <img src="https://i.imgur.com/nV6ITvP.png" width="5%" height="5%">
+  <img src="https://i.imgur.com/Gli0n7I.png" width="5%" height="5%">
 </div>
 
 ## 📚 Currently Learning
@@ -25,15 +28,12 @@
   * Reading "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert Cecil Martin (15%)
   * Reading "Fundamentals of Database Systems" by Ramez Elmasri and Shamkant B. Navathe
   * Programming logic through Python, C and Lua
-  * Object-Oriented-Programming logic through Python
+  * Object-Oriented-Programming paradigm through Python
   * Data Sciencie
+  * Python
   * Lua
-  * Git
   * MySQL
-  * Redem Framework
-
-## 🤠 Becoming a RedM Developer
-  I'm currently studying Lua and Redem Natives Framework to develop Lua scripts for Red Dead Redemption 2 servers. This whole journey will help me improve my problem-solving skills and will test my knowledge and experience writing a clean code along side a developer team
+  * Git
 
 ## 🌐 Social Media
 <div>
