@@ -8,9 +8,9 @@
 
 ## 👾 Github Stats
 
-<div>
-    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
-    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
+<div align="center">
+    <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
+    <img width="30%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
 </div>
 
 ## 💻 Hard Skills
