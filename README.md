@@ -9,8 +9,8 @@
 ## 👾 Github Stats
 
 <div align="center">
-    <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
-    <img width="30%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
 </div>
 
 ## 💻 Hard Skills
@@ -26,16 +26,18 @@
 
 ## 📚 Currently Learning
 
-  * Reading "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert Cecil Martin (15%)
-  * Reading "Fundamentals of Database Systems" by Ramez Elmasri and Shamkant B. Navathe
-  * Object-Oriented-Programming paradigm through Kotlin
-  * Android Development
-  * Kotlin
-  * MySQL
-  * SQLite3
-  * Git
+- Reading "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert Cecil Martin (15%)
+- Reading "Fundamentals of Database Systems" by Ramez Elmasri and Shamkant B. Navathe
+- Frontend Web Development
+- UI/UX Design
+- HTML
+- CSS
+- JavaScript
+- React
+- Git & Git Flow
 
 ## 🌐 Social Media
+
 <div>
     <div align="rigth">
         <div id="badges">
