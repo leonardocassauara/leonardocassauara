@@ -8,7 +8,7 @@
 
 ## 👾 Github Stats
 
-<div align="center">
+<div>
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=leonardocassauara&show_icons=true&theme=dark">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocassauara&layout=compact&theme=dark">
 </div>
@@ -16,12 +16,15 @@
 ## 💻 Hard Skills
 
 <div>
-  <img src="https://i.imgur.com/42Bc5i3.png" width="4%" height="4%">
-  <img src="https://i.imgur.com/UKwi4D2.png" width="4.5%" height="4.5%">
-  <img src="https://i.imgur.com/7ruJ9iO.png" width="4%" height="5%">
-  <img src="https://i.imgur.com/lnd7KNi.png" width="5%" height="5%">
-  <img src="https://i.imgur.com/nV6ITvP.png" width="5%" height="5%">
-  <img src="https://i.imgur.com/Gli0n7I.png" width="5%" height="5%">
+  <img src="https://i.imgur.com/uAoq3sq.png" width="4.5%">
+  <img src="https://i.imgur.com/JBDtKPL.png" width="4.5%">
+  <img src="https://i.imgur.com/4geJlp7.png" width="5%">
+  <img src="https://i.imgur.com/G78B8tt.png" width="5%">
+  <img src="https://i.imgur.com/LB7HN3p.png" width="5%">
+  <img src="https://i.imgur.com/M6QqYrY.png" width="5%">
+  <img src="https://i.imgur.com/nV6ITvP.png" width="5%">
+  <img src="https://i.imgur.com/p3AABry.png" width="5%">
+  <img src="https://i.imgur.com/Gli0n7I.png" width="5%">
 </div>
 
 ## 📚 Currently Learning
@@ -33,8 +36,10 @@
 - HTML
 - CSS
 - JavaScript
-- React
+- React.js
+- Next.js
 - Git & Git Flow
+- Node Environment
 
 ## 🌐 Social Media
 
